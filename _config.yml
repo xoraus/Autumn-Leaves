@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://github.com/xoraus/Autumn-Leaves"
+baseurl: "https://github.com/xoraus/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
@@ -7,14 +7,14 @@ google_analytics: "UA-46465113-2"
 # UI configs
 title: "Photography by xoraus"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+author: "xoraus"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by xoraus"
 footer:
- name: "Hey there, my name is Ram"
+ name: "Hey there, my name is xoraus"
  bio: "to capture or not that is the question"
-web_design: "AJ"
+web_design: "reactor"
 social_urls:
   twitter: "https://www.twitter.com/xoraus"
   instagram: "https://www.instagram.com/xoraus"
